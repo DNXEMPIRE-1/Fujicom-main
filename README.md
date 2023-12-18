@@ -25,5 +25,5 @@ Welcome to the Fujicom-main Printing Business Website! 🚀 This project is desi
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/Fujicom-main.git
+   git clone
    cd Fujicom-main
